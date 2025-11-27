@@ -123,6 +123,7 @@ img {
   left: 12px;
   display: flex;
   gap: 10px;
+  z-index: 2;
 }
 
 .badge-overlay .badge {
@@ -337,3 +338,4 @@ img {
     display: none;
   }
 }
+
